@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passionate about systems administration. Very focused on the automation of processes, monitoring of systems and the deployment of solutions in Cloud (AWS and Azure). In all these processes I prioritize the use of containers with Docker and Kubernetes
+I am passionate about SysAdmin. Very focused on the automation of processes, monitoring of systems and the deployment of solutions in Cloud (AWS and Azure). In all these processes I prioritize the use of containers with Docker and Kubernetes
 
 I currently have the LPIC-1 and studying the LPIC-2.
 
