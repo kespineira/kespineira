@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am passionate about SysAdmin. Very focused on the automation of processes, monitoring of systems and the deployment of solutions in Cloud (AWS and Azure). In all these processes I prioritize the use of containers with Docker and Kubernetes
-
-I currently have the LPIC-1 and studying the LPIC-2.
+I am passionate about SysAdmin and DevOps. Very focused on the automation of processes, monitoring of systems and the deployment of solutions in Cloud (AWS and Azure). In all these processes I prioritize the use of containers with Docker and Kubernetes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kespineira&hide=TeX&layout=compact&card_width=300&langs_count=6&hide_border=true&theme=dark)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kespineira&show_icons=true&card_width=445&layout=compact&hide=TeX&hide_border=true&theme=dark)
