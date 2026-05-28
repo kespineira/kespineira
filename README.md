@@ -1,15 +1,16 @@
-## Hi, I'm Kevin 👋 — SysAdmin & DevOps Engineer
+## Hi, I'm Kevin 👋 — DevOps / SRE / Platform Engineer
 
-I'm passionate about SysAdmin and DevOps, focused on process automation, systems
-monitoring, and deploying solutions in the Cloud (AWS and Azure). Across all of it
-I prioritize containerized workloads with Docker and Kubernetes.
+AWS expert focused on building and operating reliable, automated cloud platforms.
+I work across infrastructure automation, observability/SRE practices, and the
+deployment of scalable solutions — prioritizing containerized workloads with
+Docker and Kubernetes and everything-as-code.
 
 ### About me
 
-- 🔭 Working on: infrastructure automation, monitoring & cloud deployments
-- 🌱 Currently learning: <!-- e.g. Terraform Cloud, GitOps with ArgoCD -->
-- 💬 Ask me about: Docker, Kubernetes, AWS, Azure, CI/CD
-- ⚡ Focus: process automation & containerized solutions
+- 🔭 Working on: platform engineering, reliability (SRE) & cloud automation
+- ☁️ AWS expert — designing and operating production workloads at scale
+- 💬 Ask me about: AWS, Kubernetes, Docker, IaC, CI/CD, observability
+- ⚡ Focus: automation, reliability & developer experience
 
 ### Tech stack
 
@@ -44,6 +45,5 @@ I prioritize containerized workloads with Docker and Kubernetes.
 
 ### Connect
 
-<!-- Replace the placeholders below with your real links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/kevin-espiñeira)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:kevin.espineira@gmail.com)
